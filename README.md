@@ -1,3 +1,3 @@
-Just a test to see if we can automatically sync repository mirror
+## Repository sync test
 
-This should be pushed to github and gitlab automatically
+This should be pushed to our mirrors automatically!
